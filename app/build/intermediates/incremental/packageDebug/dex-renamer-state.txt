@@ -1,0 +1,7 @@
+#Sat Jun 10 15:08:10 EEST 2017
+base.0=/home/selin/Desktop/LoginAppGYK/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_833e353862bc98cfba09963f3819dc27eb4ffa2b
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/home/selin/Desktop/LoginAppGYK/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_bf33a13131d4f03a44351aa5f9358ef260e2fd09/classes.dex
+base.1=/home/selin/Desktop/LoginAppGYK/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_bf33a13131d4f03a44351aa5f9358ef260e2fd09
+file.0=/home/selin/Desktop/LoginAppGYK/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_833e353862bc98cfba09963f3819dc27eb4ffa2b/classes.dex

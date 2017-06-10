@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/selin/Desktop/LoginAppGYK/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="24374b4df2464b12b406a065f8d73d957ec82a75">
+        <dex dex="/home/selin/Desktop/LoginAppGYK/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_833e353862bc98cfba09963f3819dc27eb4ffa2b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/selin/Desktop/LoginAppGYK/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="/home/selin/Desktop/LoginAppGYK/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_bf33a13131d4f03a44351aa5f9358ef260e2fd09/classes.dex" />
+    </item>
+
+</items>
